@@ -16,3 +16,4 @@ C:\Users\asus\Documents\visualStudioCode\c#\firstApp\firstApp\bin\Debug\net9.0\F
 C:\Users\asus\Documents\visualStudioCode\c#\firstApp\firstApp\bin\Debug\net9.0\FirstClassLibrary.pdb
 C:\Users\asus\Documents\visualStudioCode\c#\firstApp\firstApp\obj\Debug\net9.0\firstApp.csproj.AssemblyReference.cache
 C:\Users\asus\Documents\visualStudioCode\c#\firstApp\firstApp\obj\Debug\net9.0\firstApp.csproj.Up2Date
+c:\Users\asus\Documents\visualStudioCode\c#\firstApp\firstApp\obj\Debug\net9.0\firstApp.sourcelink.json

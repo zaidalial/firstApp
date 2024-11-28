@@ -9,6 +9,18 @@
       "name": "run",
       "request": "launch",
       "type": "node-terminal"
+    },
+    {
+      "name": ".NET Meteor Debugger",
+      "type": "dotnet-meteor.debugger",
+      "request": "launch",
+      "preLaunchTask": "dotnet-meteor: Build"
+    },
+    {
+      "name": "C#: firstApp Debug",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/firstApp/firstApp.csproj"
     }
   ]
 }

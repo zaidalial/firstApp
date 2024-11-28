@@ -9,3 +9,4 @@ C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug
 C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\refint\FirstClassLibrary.dll
 C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.pdb
 C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\ref\FirstClassLibrary.dll
+c:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.sourcelink.json
