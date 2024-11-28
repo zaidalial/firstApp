@@ -1,0 +1,11 @@
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\bin\Debug\net9.0\FirstClassLibrary.deps.json
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\bin\Debug\net9.0\FirstClassLibrary.dll
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\bin\Debug\net9.0\FirstClassLibrary.pdb
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.AssemblyInfo.cs
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.dll
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\refint\FirstClassLibrary.dll
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\FirstClassLibrary.pdb
+C:\Users\asus\Documents\visualStudioCode\c#\firstApp\FirstClassLibrary\obj\Debug\net9.0\ref\FirstClassLibrary.dll
